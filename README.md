@@ -62,7 +62,7 @@ En resumen:
 
 Así se ve el puerto del Live Server
 
-![Captura de pantalla 2022-02-03 145740.png](JavaScript%203b3bcf832f32487b9611e352e90e8482/Captura_de_pantalla_2022-02-03_145740.png)
+![Captura de pantalla 2022-02-03 145740.png]
 
 ---
 
@@ -150,7 +150,7 @@ for(let indice = 0; indice < 4; indice ++) {
 
 Nota: en la consola, la acción que se repite más de una vez se verá así
 
-![Captura de pantalla 2022-02-02 021822.png](JavaScript%203b3bcf832f32487b9611e352e90e8482/Captura_de_pantalla_2022-02-02_021822.png)
+![Captura de pantalla 2022-02-02 021822.png]
 
 Ahora, para romper el ciclo usamos ***break***
 
@@ -178,7 +178,7 @@ console.log(arreglo)
 
 Que arroja en consola, *note que se inicia contando en 0*
 
-![Captura de pantalla 2022-02-02 022412.png](JavaScript%203b3bcf832f32487b9611e352e90e8482/Captura_de_pantalla_2022-02-02_022412.png)
+![Captura de pantalla 2022-02-02 022412.png]
 
 Para ver elementos de arreglo
 
@@ -235,3 +235,5 @@ const gato1 = {
     edad: 4,
 };
 ```
+
+Notas completas en https://pinnate-lace-fe6.notion.site/JavaScript-d0e3bca55e8645e1b3342b31f8a4e862
